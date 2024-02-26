@@ -3,6 +3,12 @@
 ## A Recreation of MacOS
 - Made in HTML5, CSS3 and Javascript
 ---
+MacOS In Web Beta
+A beta version of MacOS In Web which allows to you to access new updates and features before they get added in the official version.
+
+MacOS In Web Official
+https://github.com/ZixiaChen/MacOS-In-Web
+---
 ## Features
 - (New) Trash
 - (New) Photos UI
