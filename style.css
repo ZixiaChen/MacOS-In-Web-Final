@@ -3144,6 +3144,9 @@ iframe::-webkit-resizer, iframe ::-webkit-scrollbar-corner {
 .icon[data-icon=preferences] {
   background: url("https://raw.githubusercontent.com/aboredvaro/codepen_resources/main/macOS/img/system/icons/systempreferences.png") !important;
 }
+.icon[data-icon=trash] {
+  background: url("https://thearghyasarkar.xyz/webintosh/icons/trash.png") !important;
+}
 .icon[data-icon=messages] {
   background: url("https://raw.githubusercontent.com/aboredvaro/codepen_resources/main/macOS/img/system/icons/messages.png") !important;
 }
