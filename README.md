@@ -4,6 +4,11 @@
 - Made in HTML5, CSS3 and Javascript
 ---
 ## Features
+- (New) Trash
+- (New) Photos UI
+- (New) Apple Mail UI
+- (New) Apple Music UI
+- (New) Google Chrome UI
 - Time (Seconds also can be viewed)
 - Finder UI
 - Day and Night wallpapers (after 6pm, it turns in to night wallpaper)
