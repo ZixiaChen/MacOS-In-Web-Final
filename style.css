@@ -3174,8 +3174,8 @@ iframe::-webkit-resizer, iframe ::-webkit-scrollbar-corner {
 .icon[data-icon=photos] {
   background: url(https://uploads-ssl.webflow.com/5f7081c044fb7b3321ac260e/5f70853c55558a2e1192ee09_photos.png) !important;
 }
-.icon[data-icon="adobe ae"] {
-  background: url(https://bit.ly/2Hz4FWU) !important;
+.icon[data-icon="contacts"] {
+  background: url(https://uploads-ssl.webflow.com/5f7081c044fb7b3321ac260e/5f70853743597518c528b9b3_contacts.png) !important;
 }
 .icon[data-icon="adobe ps"] {
   background: url(https://bit.ly/2VJP1f0) !important;
