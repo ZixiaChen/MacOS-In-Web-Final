@@ -180,7 +180,7 @@ video {
   height: 100vh;
   user-select: none;
   transform: translate3d(0, 0, 0);
-  background: url("https://cdn.arstechnica.net/wp-content/uploads/2023/09/sonoma-light-800x500.jpg");
+  background: url("https://cdn.osxdaily.com/wp-content/uploads/2023/06/macOS-Sonoma-default-wallpaper-Light.jpg");
   background-size: 0px 0px;
 }
 .desktop:before {
