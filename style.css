@@ -1881,7 +1881,7 @@ video {
   z-index: 999999;
   pointer-events: none;
   opacity: 0;
-  background: url("https://raw.githubusercontent.com/aboredvaro/codepen_resources/main/macOS/img/bg/abstract/macOS-Big-Sur-Vector-Wave-Wallpaper.jpg");
+  background: url("https://cdn.osxdaily.com/wp-content/uploads/2023/06/macOS-Sonoma-default-wallpaper-Light.jpg");
   background-size: 0px 0px;
   transition: opacity 0.1s linear;
 }
