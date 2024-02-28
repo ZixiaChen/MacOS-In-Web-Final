@@ -48,7 +48,7 @@ body {
   transition: filter 0.25s ease-in-out;
 }
 body.night [sysDesktopBackground] {
-  background-image: url("https://github.com/aboredvaro/codepen_resources/blob/main/macOS/img/bg/abstract/macOS-Big-Sur-Vector-Wave-Dark-Wallpaper.jpg?raw=true");
+  background-image: url("https://cdn.osxdaily.com/wp-content/uploads/2023/06/macOS-Sonoma-default-wallpaper-Sonoma-Dark.jpg?raw=true");
 }
 body.night [sysDesktopBackgroundBlur] {
   background-image: url("https://raw.githubusercontent.com/aboredvaro/codepen_resources/main/macOS/img/bg/abstract/macOS-Big-Sur-Vector-Wave-Dark-Wallpaper-blur.jpg");
