@@ -180,7 +180,7 @@ video {
   height: 100vh;
   user-select: none;
   transform: translate3d(0, 0, 0);
-  background: url("https://raw.githubusercontent.com/aboredvaro/codepen_resources/main/macOS/img/bg/abstract/macOS-Big-Sur-Vector-Wave-Wallpaper.jpg");
+  background: url("https://cdn.arstechnica.net/wp-content/uploads/2023/09/sonoma-light-800x500.jpg");
   background-size: 0px 0px;
 }
 .desktop:before {
