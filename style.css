@@ -3189,8 +3189,8 @@ iframe::-webkit-resizer, iframe ::-webkit-scrollbar-corner {
 .icon[data-icon="app store"] {
   background: url(https://uploads-ssl.webflow.com/5f7081c044fb7b3321ac260e/5f70853270b5e2ccfd795b49_appstore.png) !important;
 }
-.icon[data-icon=vscode] {
-  background: url(https://bit.ly/2lWXorv) !important;
+.icon[data-icon="notes"] {
+  background: url(https://uploads-ssl.webflow.com/5f7081c044fb7b3321ac260e/5f70853c849ec3735b52cef9_notes.png) !important;
 }
 .icon[data-icon=word] {
   background: url(https://bit.ly/2vZeSIF) !important;
@@ -3198,8 +3198,8 @@ iframe::-webkit-resizer, iframe ::-webkit-scrollbar-corner {
 .icon[data-icon=excel] {
   background: url(https://bit.ly/2w1sdAc) !important;
 }
-.icon[data-icon="power point"] {
-  background: url(https://bit.ly/32rNtLO) !important;
+.icon[data-icon="apple tv"] {
+  background: url(https://uploads-ssl.webflow.com/5f7081c044fb7b3321ac260e/5f708540dd82638d7b8eda70_tv.png) !important;
 }
 .icon[data-icon=onenote] {
   background: url(https://bit.ly/3c322K9) !important;
