@@ -51,7 +51,7 @@ body.night [sysDesktopBackground] {
   background-image: url("https://cdn.osxdaily.com/wp-content/uploads/2023/06/macOS-Sonoma-default-wallpaper-Sonoma-Dark.jpg?raw=true");
 }
 body.night [sysDesktopBackgroundBlur] {
-  background-image: url("https://raw.githubusercontent.com/aboredvaro/codepen_resources/main/macOS/img/bg/abstract/macOS-Big-Sur-Vector-Wave-Dark-Wallpaper-blur.jpg");
+  background-image: url("https://github.com/ZixiaChen/macos/blob/main/macOS-Sonoma-default-wallpaper-Sonoma-Dark-Blur%20(1).jpg?raw=true");
 }
 body.sleep {
   filter: brightness(0);
