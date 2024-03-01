@@ -1447,7 +1447,7 @@ var cmds = {
 	edit: function(args) {
 		var tab = (sysIn().indexOf("-tab") !== -1), debug = (sysIn().indexOf("-debug") !== -1);
 		output(["Opening " + (debug ? "debug view " : "script ") + (tab ? "on a new tab" : "") + "..."]);
-		window.open(debug ? "https://github.com/RedEdge967/MacOS-CSS" : "https://github.com/RedEdge967/MacOS-CSS", tab ? "_blank" : "_self");
+		window.open(debug ? "https://github.com/ZixiaChen/MacOS-In-Web-Final" : "https://github.com/ZixiaChen/MacOS-In-Web-Final, tab ? "_blank" : "_self");
 	},
 	
 	test: function() {
